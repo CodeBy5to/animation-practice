@@ -1,5 +1,6 @@
 # animation-practice
 Practica muy sencilla del uso de keyframes y propiedades css de animación.
 
-![3](https://github.com/user-attachments/assets/6d69791d-16bb-48fe-864d-5326d47dc012)
+![4](https://github.com/user-attachments/assets/9b4c31d5-ce00-4ecb-9d6f-c88a3cebffa3)
+
 
